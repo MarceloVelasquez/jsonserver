@@ -1,35 +1,41 @@
-"items": [
-  {
-    "id": "d8ace3e0-207f-4655-8071-6a0cf71daf5d",
-    "name": "Cebiche de lenguado",
-    "image": "https://recetas.7maravillasgastronomicas.com/wp-content/uploads/2011/01/cebichedelenguado.jpg",
-    "local": "La casa de Kike",
-    "price": 15.9,
-    "score": 4.5,
-    "content": ["Pescado", "Cebolla", "Limón", "Lenguado", "Rocoto"],
-    "category": "Plato principal",
-    "isFavourite": true
-  },
-  {
-    "id": "8a27bc4d-b122-48a2-8221-9f7e4e2b4b8e",
-    "name": "Lomo saltado",
-    "image": "https://www.tvperu.gob.pe/sites/default/files/styles/note/public/lomo_saltado_ok.jpg?itok=9SAHFbtY",
-    "local": "La casa de Kike",
-    "price": 20.5,
-    "score": 4.8,
-    "content": ["Carne de res", "Cebolla", "Tomate", "Papas fritas"],
-    "category": "Plato principal",
-    "isFavourite": true
-  },
-  {
-    "id": "c0d7179c-c1c6-4893-8051-6de44016be62",
-    "name": "Chicha morada",
-    "image": "https://lh3.googleusercontent.com/proxy/o5FKndvlpqqf9wHp7xWok93sLncaK730TdcNGSmAiEX8bpOMtJ_9qvIiFHJRiqvYxN2DdAuOWGzsidg3046X3IcvYDR4uQGfbJqDajKn4huWwe7JGNqZCbgEE6kK67Olr5VpdMB_8quaz-2JQ-uMP_oK3zPOUHoZ",
-    "local": "La cocina de Rosita",
-    "price": 1.5,
-    "score": 4.3,
-    "content": ["Maíz morado", "Limón", "Piña"],
-    "category": "Bebida",
-    "isFavourite": false
-  }
-]
+{
+  "items": [
+    {
+      "id": "d8ace3e0-207f-4655-8071-6a0cf71daf5d",
+      "name": "Cebiche de lenguado",
+      "image": "https://recetas.7maravillasgastronomicas.com/wp-content/uploads/2011/01/cebichedelenguado.jpg",
+      "local": "La casa de Kike",
+      "price": 15.9,
+      "score": 4.5,
+      "content": ["Pescado", "Cebolla", "Limón", "Lenguado", "Rocoto"],
+      "category": "Plato principal",
+      "isFavourite": true
+    },
+    {
+      "id": "8a27bc4d-b122-48a2-8221-9f7e4e2b4b8e",
+      "name": "Lomo saltado",
+      "image": "https://www.tvperu.gob.pe/sites/default/files/styles/note/public/lomo_saltado_ok.jpg?itok=9SAHFbtY",
+      "local": "La casa de Kike",
+      "price": 20.5,
+      "score": 4.8,
+      "content": ["Carne de res", "Cebolla", "Tomate", "Papas fritas"],
+      "category": "Plato principal",
+      "isFavourite": true
+    },
+    {
+      "id": "c0d7179c-c1c6-4893-8051-6de44016be62",
+      "name": "Chicha morada",
+      "image": "https://lh3.googleusercontent.com/proxy/o5FKndvlpqqf9wHp7xWok93sLncaK730TdcNGSmAiEX8bpOMtJ_9qvIiFHJRiqvYxN2DdAuOWGzsidg3046X3IcvYDR4uQGfbJqDajKn4huWwe7JGNqZCbgEE6kK67Olr5VpdMB_8quaz-2JQ-uMP_oK3zPOUHoZ",
+      "local": "La cocina de Rosita",
+      "price": 1.5,
+      "score": 4.3,
+      "content": ["Maíz morado", "Limón", "Piña"],
+      "category": "Bebida",
+      "isFavourite": false
+    }
+  ],
+  "locals": [
+    "La casa de kike",
+    "La cocina de Rosita"
+  ]
+}

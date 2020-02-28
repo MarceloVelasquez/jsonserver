@@ -2,8 +2,8 @@
   "items": [
     {
       "id": "d8ace3e0-207f-4655-8071-6a0cf71daf5d",
-      "name": "Cebiche de lenguado",
-      "image": "https://picsum.photos/400",
+      "name": "Ceviche",
+      "image": "https://cdn140.picsart.com/254272279019202.jpg?type=webp&to=crop&r=256",
       "local": "La casa de Kike",
       "price": 15.9,
       "score": 4.5,
@@ -14,7 +14,7 @@
     {
       "id": "8a27bc4d-b122-48a2-8221-9f7e4e2b4b8e",
       "name": "Lomo saltado",
-      "image": "https://picsum.photos/400",
+      "image": "https://bigoven-res.cloudinary.com/image/upload/t_recipe-256/peruvian-lomo-saltado-2141678.jpg",
       "local": "La casa de Kike",
       "price": 20.5,
       "score": 4.8,
@@ -24,12 +24,12 @@
     },
     {
       "id": "c0d7179c-c1c6-4893-8051-6de44016be62",
-      "name": "Chicha morada",
-      "image": "https://picsum.photos/400",
+      "name": "Pisco Sour",
+      "image": "https://pbs.twimg.com/profile_images/2928156350/ba73b8112b24145dbb0da5895f38b0aa.jpeg",
       "local": "La cocina de Rosita",
-      "price": 1.5,
+      "price": 9.5,
       "score": 4.3,
-      "ingredients": ["Maíz morado", "Limón", "Piña"],
+      "ingredients": ["Pisco", "Limón"],
       "category": "Bebida",
       "isFavourite": false
     }

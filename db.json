@@ -3,7 +3,7 @@
     {
       "id": "d8ace3e0-207f-4655-8071-6a0cf71daf5d",
       "name": "Cebiche de lenguado",
-      "image": "https://recetas.7maravillasgastronomicas.com/wp-content/uploads/2011/01/cebichedelenguado.jpg",
+      "image": "https://picsum.photos/400",
       "local": "La casa de Kike",
       "price": 15.9,
       "score": 4.5,
@@ -14,7 +14,7 @@
     {
       "id": "8a27bc4d-b122-48a2-8221-9f7e4e2b4b8e",
       "name": "Lomo saltado",
-      "image": "https://www.tvperu.gob.pe/sites/default/files/styles/note/public/lomo_saltado_ok.jpg?itok=9SAHFbtY",
+      "image": "https://picsum.photos/400",
       "local": "La casa de Kike",
       "price": 20.5,
       "score": 4.8,
@@ -25,7 +25,7 @@
     {
       "id": "c0d7179c-c1c6-4893-8051-6de44016be62",
       "name": "Chicha morada",
-      "image": "https://sc01.alicdn.com/kf/HTB1fEQDKpXXXXbHXpXXq6xXFXXXd/chicha-morada-soft-drinks.jpg",
+      "image": "https://picsum.photos/400",
       "local": "La cocina de Rosita",
       "price": 1.5,
       "score": 4.3,

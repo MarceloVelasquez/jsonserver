@@ -75,7 +75,7 @@
       "score": 3,
       "ingredients": ["Pollo", "Papa", "Arroz", "Huevo"],
       "category": "Plato principal",
-      "isFavourite": true
+      "isFavourite": false
     },
     {
       "id": "d95ab991-8fc5-4719-9ade-cbe1c1e6c9da",
@@ -85,17 +85,6 @@
       "price": 15.9,
       "score": 4.5,
       "ingredients": ["Rocoto", "Carne molida"],
-      "category": "Plato principal",
-      "isFavourite": true
-    },
-    {
-      "id": "8a27bc4d-b122-48a2-8221-9f7e4e2b4b8e",
-      "name": "Lomo saltado",
-      "image": "https://bigoven-res.cloudinary.com/image/upload/t_recipe-256/peruvian-lomo-saltado-2141678.jpg",
-      "local": "La casa de Kike",
-      "price": 20.5,
-      "score": 4.8,
-      "ingredients": ["Carne de res", "Cebolla", "Tomate", "Papas fritas"],
       "category": "Plato principal",
       "isFavourite": true
     },
@@ -133,5 +122,5 @@
       "isFavourite": false
     }
   ],
-  "locals": ["La casa de kike", "La cocina de Rosita"]
+  "locals": ["La casa de kike", "La cocina de Rosita", "El Pacifico"]
 }

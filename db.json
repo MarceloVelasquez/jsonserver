@@ -32,10 +32,106 @@
       "ingredients": ["Pisco", "Limón"],
       "category": "Bebida",
       "isFavourite": false
+    },
+    {
+      "id": "5d76d8c9-b9cb-439b-8237-c12e6a894446",
+      "name": "1/8 Pollo a la brasa",
+      "image": "https://www.aboutespanol.com/thmb/zR9U6O3uCaE2uVOBwovrI7vOb9o=/2000x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/peruvian-chicken-resize-597b87553df78cbb7a2501d7.jpg",
+      "local": "La cocina de rosita",
+      "price": 7,
+      "score": 4.8,
+      "ingredients": ["Pollo", "papas"],
+      "category": "Plato principal",
+      "isFavourite": true
+    },
+    {
+      "id": "832e9ced-b10b-49bb-96f2-1e034cb08857",
+      "name": "Olluquito con charqui",
+      "image": "https://t1.rg.ltmcdn.com/es/images/5/3/3/img_olluquito_con_charqui_25335_600.jpg",
+      "local": "La casa de Kike",
+      "price": 20.5,
+      "score": 4.8,
+      "ingredients": ["Carne de res", "Olluco", "Charqui", "Arroz"],
+      "category": "Plato principal",
+      "isFavourite": true
+    },
+    {
+      "id": "95acf05c-2104-4b16-b9ca-3985ba08cc57",
+      "name": "Causa rellena",
+      "image": "https://t1.rg.ltmcdn.com/es/images/8/6/2/img_causa_limena_31268_600.jpg",
+      "local": "La cocina de Rosita",
+      "price": 9.5,
+      "score": 4.3,
+      "ingredients": ["Papa", "Palta", "Aceituna", "Papa"],
+      "category": "Entrada",
+      "isFavourite": false
+    },
+    {
+      "id": "9e0bd173-c4b1-4d63-addb-574591568de7",
+      "name": "Aji de gallina",
+      "image": "https://t2.rg.ltmcdn.com/es/images/3/8/7/img_aji_de_pollo_16783_orig.jpg",
+      "local": "La cocina de Rosita",
+      "price": 20.5,
+      "score": 3,
+      "ingredients": ["Pollo", "Papa", "Arroz", "Huevo"],
+      "category": "Plato principal",
+      "isFavourite": true
+    },
+    {
+      "id": "d95ab991-8fc5-4719-9ade-cbe1c1e6c9da",
+      "name": "Rocoto relleno",
+      "image": "https://peru.info/Portals/0/Images/Productos/6/28-imagen-1640591012018.jpg",
+      "local": "El Pacifico",
+      "price": 15.9,
+      "score": 4.5,
+      "ingredients": ["Rocoto", "Carne molida"],
+      "category": "Plato principal",
+      "isFavourite": true
+    },
+    {
+      "id": "8a27bc4d-b122-48a2-8221-9f7e4e2b4b8e",
+      "name": "Lomo saltado",
+      "image": "https://bigoven-res.cloudinary.com/image/upload/t_recipe-256/peruvian-lomo-saltado-2141678.jpg",
+      "local": "La casa de Kike",
+      "price": 20.5,
+      "score": 4.8,
+      "ingredients": ["Carne de res", "Cebolla", "Tomate", "Papas fritas"],
+      "category": "Plato principal",
+      "isFavourite": true
+    },
+    {
+      "id": "954c0eda-46ea-4433-8f56-b8b219ece73c",
+      "name": "Papa a la huancaína",
+      "image": "https://www.comeperuano.pe/wp-content/uploads/2019/05/Papa-a-la-huancayna-receta-peruana.jpg",
+      "local": "La cocina de Rosita",
+      "price": 3,
+      "score": 5,
+      "ingredients": ["Papa", "Huevo", "Aceituna"],
+      "category": "Entrada",
+      "isFavourite": false
+    },
+    {
+      "id": "37480741-2d89-4230-924a-4cdbb9ddf222",
+      "name": "Salchipapa",
+      "image": "https://st4.depositphotos.com/1692343/20098/i/450/depositphotos_200980024-stock-photo-homemade-peruvian-salchipapa-fries-mayo.jpg",
+      "local": "La casa de Kike",
+      "price": 10,
+      "score": 4.5,
+      "ingredients": ["Papa", "Hot-dog"],
+      "category": "Plato principal",
+      "isFavourite": true
+    },
+    {
+      "id": "b7224376-efa6-4774-9f39-7603f62765c4",
+      "name": "Cuy con papas",
+      "image": "https://cursoscocinaperuana.com/wp-content/uploads/2014/11/Picante-de-Papas-con-cuy-Frito.jpg",
+      "local": "La cocina de Rosita",
+      "price": 30,
+      "score": 4.3,
+      "ingredients": ["Cuy", "Papas"],
+      "category": "Plato principal",
+      "isFavourite": false
     }
   ],
-  "locals": [
-    "La casa de kike",
-    "La cocina de Rosita"
-  ]
+  "locals": ["La casa de kike", "La cocina de Rosita"]
 }

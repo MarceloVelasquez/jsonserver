@@ -177,5 +177,94 @@
       "isFavourite": false,
       "description": "Esta es una descripción de prueba para verificar como se vería al momento de hacer click en un plato o bebida en específico."
     }
-  ]
+  ],
+  "qualifications": {
+    "d8ace3e0-207f-4655-8071-6a0cf71daf5d": {
+      "summary": {
+        "total": 4,
+        "scores": [
+          {
+            "category": "Cantidad",
+            "amount": 3.5
+          },
+          {
+            "category": "Sabor",
+            "amount": 4.5
+          },
+          {
+            "category": "Frescura",
+            "amount": 4
+          }
+        ]
+      },
+      "comments": [
+        {
+          "person": "Enrique Paredes",
+          "comment": "Todo bien",
+          "rating": 4.5,
+          "scores": [
+            {
+              "category": "Cantidad",
+              "amount": 4
+            },
+            {
+              "category": "Sabor",
+              "amount": 5
+            }
+          ]
+        },
+        {
+          "person": "Marcelo Velásquez",
+          "comment": "Recomendable",
+          "rating": 3.7,
+          "scores": [
+            {
+              "category": "Cantidad",
+              "amount": 3
+            },
+            {
+              "category": "Sabor",
+              "amount": 4
+            },
+            {
+              "category": "Frescura",
+              "amount": 4
+            }
+          ]
+        }
+      ]
+    },
+    "b7224376-efa6-4774-9f39-7603f62765c4": {
+      "summary": {
+        "total": 3.5,
+        "scores": [
+          {
+            "category": "Cantidad",
+            "amount": 3
+          },
+          {
+            "category": "Frescura",
+            "amount": 4
+          }
+        ]
+      },
+      "comments": [
+        {
+          "person": "Javier Arturo Chávez",
+          "comment": "Buen plato, estoy satisfecho",
+          "rating": 3.5,
+          "scores": [
+            {
+              "category": "Cantidad",
+              "amount": 3
+            },
+            {
+              "category": "Frescura",
+              "amount": 4
+            }
+          ]
+        }
+      ]
+    }
+  }
 }

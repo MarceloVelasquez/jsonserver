@@ -7,7 +7,13 @@
       "local": "La casa de Kike",
       "price": 15.9,
       "score": 4.5,
-      "ingredients": ["Pescado", "Cebolla", "Limón", "Lenguado", "Rocoto"],
+      "ingredients": [
+        "Pescado",
+        "Cebolla",
+        "Limón",
+        "Lenguado",
+        "Rocoto"
+      ],
       "category": "Plato principal",
       "isFavourite": true,
       "description": "Esta es una descripción mas larga que las otras de prueba para verificar como se vería al momento de hacer click en un plato o bebida en específico."
@@ -19,7 +25,12 @@
       "local": "La casa de Kike",
       "price": 20.5,
       "score": 4.8,
-      "ingredients": ["Carne de res", "Cebolla", "Tomate", "Papas fritas"],
+      "ingredients": [
+        "Carne de res",
+        "Cebolla",
+        "Tomate",
+        "Papas fritas"
+      ],
       "category": "Plato principal",
       "isFavourite": true,
       "description": "Esta es una descripción, mucho más larga que las otras descripciones mostradas anteriormente, de prueba para verificar como se vería al momento de hacer click en un plato o bebida en específico."
@@ -31,7 +42,10 @@
       "local": "La cocina de Rosita",
       "price": 9.5,
       "score": 4.3,
-      "ingredients": ["Pisco", "Limón"],
+      "ingredients": [
+        "Pisco",
+        "Limón"
+      ],
       "category": "Bebida",
       "isFavourite": false,
       "description": "Esta es una descripción de prueba para verificar como se vería al momento de hacer click en un plato o bebida en específico."
@@ -43,7 +57,10 @@
       "local": "La cocina de rosita",
       "price": 7,
       "score": 4.8,
-      "ingredients": ["Pollo", "papas"],
+      "ingredients": [
+        "Pollo",
+        "papas"
+      ],
       "category": "Plato principal",
       "isFavourite": true,
       "description": "Esta es una descripción de prueba para verificar como se vería al momento de hacer click en un plato o bebida en específico."
@@ -55,9 +72,15 @@
       "local": "La casa de Kike",
       "price": 20.5,
       "score": 4.8,
-      "ingredients": ["Carne de res", "Olluco", "Charqui", "Arroz"],
+      "ingredients": [
+        "Carne de res",
+        "Olluco",
+        "Charqui",
+        "Arroz"
+      ],
       "category": "Plato principal",
-      "isFavourite": true
+      "isFavourite": true,
+      "description": "Esta es una descripción de prueba para verificar como se vería al momento de hacer click en un plato o bebida en específico."
     },
     {
       "id": "95acf05c-2104-4b16-b9ca-3985ba08cc57",
@@ -66,7 +89,12 @@
       "local": "La cocina de Rosita",
       "price": 9.5,
       "score": 4.3,
-      "ingredients": ["Papa", "Palta", "Aceituna", "Papa"],
+      "ingredients": [
+        "Papa",
+        "Palta",
+        "Aceituna",
+        "Papa"
+      ],
       "category": "Entrada",
       "isFavourite": false,
       "description": "Esta es una descripción de prueba para verificar como se vería al momento de hacer click en un plato o bebida en específico."
@@ -78,7 +106,12 @@
       "local": "La cocina de Rosita",
       "price": 20.5,
       "score": 3,
-      "ingredients": ["Pollo", "Papa", "Arroz", "Huevo"],
+      "ingredients": [
+        "Pollo",
+        "Papa",
+        "Arroz",
+        "Huevo"
+      ],
       "category": "Plato principal",
       "isFavourite": false,
       "description": "Esta es una descripción de prueba para verificar como se vería al momento de hacer click en un plato o bebida en específico."
@@ -90,7 +123,10 @@
       "local": "El Pacifico",
       "price": 15.9,
       "score": 4.5,
-      "ingredients": ["Rocoto", "Carne molida"],
+      "ingredients": [
+        "Rocoto",
+        "Carne molida"
+      ],
       "category": "Plato principal",
       "isFavourite": true,
       "description": "Esta es una descripción de prueba para verificar como se vería al momento de hacer click en un plato o bebida en específico."
@@ -102,7 +138,11 @@
       "local": "La cocina de Rosita",
       "price": 3,
       "score": 5,
-      "ingredients": ["Papa", "Huevo", "Aceituna"],
+      "ingredients": [
+        "Papa",
+        "Huevo",
+        "Aceituna"
+      ],
       "category": "Entrada",
       "isFavourite": false,
       "description": "Esta es una descripción de prueba para verificar como se vería al momento de hacer click en un plato o bebida en específico."
@@ -114,7 +154,10 @@
       "local": "La casa de Kike",
       "price": 10,
       "score": 4.5,
-      "ingredients": ["Papa", "Hot-dog"],
+      "ingredients": [
+        "Papa",
+        "Hot-dog"
+      ],
       "category": "Plato principal",
       "isFavourite": true,
       "description": "Esta es una descripción de prueba para verificar como se vería al momento de hacer click en un plato o bebida en específico."
@@ -126,7 +169,10 @@
       "local": "La cocina de Rosita",
       "price": 30,
       "score": 4.3,
-      "ingredients": ["Cuy", "Papas"],
+      "ingredients": [
+        "Cuy",
+        "Papas"
+      ],
       "category": "Plato principal",
       "isFavourite": false,
       "description": "Esta es una descripción de prueba para verificar como se vería al momento de hacer click en un plato o bebida en específico."

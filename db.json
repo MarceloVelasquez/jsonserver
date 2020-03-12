@@ -266,5 +266,11 @@
         }
       ]
     }
+  },
+  "array": [
+    "Hola"
+  ],
+  "object": {
+    "message": "Hola"
   }
 }

@@ -202,7 +202,7 @@
         "comments": [
           {
             "person": "Enrique Paredes",
-            "comment": "Todo bien",
+            "content": "Todo bien",
             "rating": 4.5,
             "scores": [
               {
@@ -217,7 +217,7 @@
           },
           {
             "person": "Marcelo Velásquez",
-            "comment": "Recomendable",
+            "content": "Recomendable",
             "rating": 3.7,
             "scores": [
               {
@@ -256,7 +256,7 @@
         "comments": [
           {
             "person": "Javier Arturo Chávez",
-            "comment": "Buen plato, estoy satisfecho",
+            "content": "Buen plato, estoy satisfecho",
             "rating": 3.5,
             "scores": [
               {

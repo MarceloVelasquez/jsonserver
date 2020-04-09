@@ -249,5 +249,14 @@
       "text": "¿Atenderan normal este fin de semana?",
       "date": "1586389232"
     }
-  ]
+  ],
+  "comunity/stats": {
+    "likes": 10,
+    "score": 3.5,
+    "weekly": {
+      "amount": 3,
+      "increse": 0.23,
+      "dataChart": [0, 0, 0, 2, 5, 0, 3]
+    }
+  }
 }
